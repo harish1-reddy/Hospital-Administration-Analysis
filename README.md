@@ -109,6 +109,7 @@ hospital administration insights.
 ## Project Files
 
 - `HospitalData.xlsx` - Complete Excel analysis workbook
+- Dashboard.png
 
 ## Business Recommendations
 
